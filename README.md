@@ -85,4 +85,4 @@ To interact with my deployed smart contract, I completed the following steps:
 3. Once I’ve successfully deposited funds into my contract, test the contract’s withdrawal functionality.
 
 ##### Here are some Remix screenshots that I took.
-![alt=“”](20-5-challenge-image.png)
+![alt=“”](Remix screenshot.png)
